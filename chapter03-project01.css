@@ -1,0 +1,19 @@
+header, footer {
+color: white;
+background-color: #3D6271;
+margin: 0em 4em 0.5em 4em;
+}
+
+ul {
+    background-color: beige;
+}
+li {
+	display: inline;
+}
+article {
+	margin: 0em 4em 0.5em 4em;
+	background-color: white;
+}
+body {
+	background-color: darkblue;
+}
